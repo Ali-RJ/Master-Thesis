@@ -1,0 +1,7 @@
+(indexentry :tkey (("\\lr {Penetration Coefficient}" "\\glossentry{PenetrationCoefficient}") ) :locref "{}{1}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("\\lr {Cloud Computing}" "\\glossentry{CloudComputing}") ) :locref "{}{1}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("\\lr {Call}" "\\glossentry{Call}") ) :locref "{}{1}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("\\lr {Packet Switch}" "\\glossentry{PacketSwitch}") ) :locref "{}{1}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("\\lr {Delay}" "\\glossentry{Delay}") ) :locref "{}{2}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("\\lr {Drive Test}" "\\glossentry{DriveTest}") ) :locref "{}{4}" :attr "pageglsnumberformat" ) 
+(indexentry :tkey (("\\lr {Drive Test}" "\\glossentry{DriveTest}") ) :locref "{}{12}" :attr "pageglsnumberformat" ) 

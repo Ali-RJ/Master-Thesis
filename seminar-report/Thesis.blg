@@ -1,0 +1,48 @@
+;; This logfile was generated automatically by `xindy'
+;; at 14.09.2024  23:30:10
+;; Indexstyle: "/tmp/EZSuZKwOx3", Rawindex: "/tmp/1y2RzNG7rO", Output: "Thesis.bls"
+
+
+Building indexentry-tree:
+Hierdepth of index is :TREE
+
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+
+Forming letter-groups:
+Letter-group: "“¡ƒ ž˜ŸŒ" -> "Ø¶"
+Letter-group: "‚¡‚ž‘ ‚ƒ¡" -> "Ø±"
+Letter-group: "…‚" -> "Øª"
+Letter-group: "šœ¡‹Žž¡ ƒ… ‚¡" -> "Ú©"
+Letter-group: "…‚Š¡" -> "Øª"
+Letter-group: "š¡˜¡… Š‹…" -> "Ú©"
+Letter-group: "‹‚¡Ÿ ……" -> "Ø¯"
+Letter-group: "–‚¡" -> "Ù…"
+Letter-group: "‚ž‰‚˜ ‚…‚ž‹‚‹" -> "Ø§"
+Letter-group: "¡‚ž›¡ž" -> "Ù…"
+Letter-group: "…ŸŽ¡– ›‚Ÿ¡" -> "Øª"
+Letter-group: "…—¡ …’‚‹˜¡" -> "Ù…"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "‚ž‰‚˜ ‚…‚ž‹‚‹" -> "Ø§"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "…‚Š¡" -> "Øª"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "‹‚¡Ÿ ……" -> "Ø¯"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "‚¡‚ž‘ ‚ƒ¡" -> "Ø±"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "“¡ƒ ž˜ŸŒ" -> "Ø¶"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "šœ¡‹Žž¡ ƒ… ‚¡" -> "Ú©"
+sort-indexentries: (FORWARD BACKWARD FORWARD FORWARD)
+Letter-group: "…—¡ …’‚‹˜¡" -> "Ù…"
