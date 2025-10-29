@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.9.27)  6 OCT 2025 21:46
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.9.27)  29 OCT 2025 16:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -150,7 +150,10 @@ Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 \ALC@tlm=\skip50
 \algorithmicindent=\skip51
 )
-(../../../Documents/Boostan/tex/Boostan-Thesis.tex
+(c:/texlive/2024/texmf-dist/tex/latex/comment/comment.sty
+\CommentStream=\write3
+
+Excluding comment 'comment') (../../../Documents/Boostan/tex/Boostan-Thesis.tex
 (../../../Documents/Boostan/tex/src/Boostan-Init.tex)
 (../../../Documents/Boostan/tex/src/Boostan-Main.tex
 (../../../Documents/Boostan/tex/src/Boostan-LoadBasicPackage.tex
@@ -452,7 +455,7 @@ de.tex
 \pgf@yc=\dimen267
 \pgf@xd=\dimen268
 \pgf@yd=\dimen269
-\w@pgf@writea=\write3
+\w@pgf@writea=\write4
 \r@pgf@reada=\read2
 \c@pgf@counta=\count321
 \c@pgf@countb=\count322
@@ -1088,8 +1091,8 @@ Package: listings 2024/02/21 1.10 (Carsten Heinz)
 (c:/texlive/2024/texmf-dist/tex/latex/base/makeidx.sty
 Package: makeidx 2021/10/04 v1.0m Standard LaTeX package
 )
-\@indexfile=\write4
-\openout4 = `Thesis.idx'.
+\@indexfile=\write5
+\openout5 = `Thesis.idx'.
 
 
 Writing index file Thesis.idx
@@ -1945,21 +1948,21 @@ ersian-tex-text;"
 
 )
 (../../../Documents/Boostan/tex/src/Boostan-Gloss.tex
-\glswrite=\write5
-\glo@main@file=\write6
-\openout6 = `Thesis.glo'.
+\glswrite=\write6
+\glo@main@file=\write7
+\openout7 = `Thesis.glo'.
 
 Package glossaries Info: Writing glossary file Thesis.glo on input line 14.
-\glo@acronym@file=\write7
-\openout7 = `Thesis.acn'.
+\glo@acronym@file=\write8
+\openout8 = `Thesis.acn'.
 
 Package glossaries Info: Writing glossary file Thesis.acn on input line 14.
-\glo@english@file=\write8
-\openout8 = `Thesis.glo'.
+\glo@english@file=\write9
+\openout9 = `Thesis.glo'.
 
 Package glossaries Info: Writing glossary file Thesis.glo on input line 14.
-\glo@persian@file=\write9
-\openout9 = `Thesis.blo'.
+\glo@persian@file=\write10
+\openout10 = `Thesis.blo'.
 
 Package glossaries Info: Writing glossary file Thesis.blo on input line 14.
 )
@@ -2238,32 +2241,32 @@ xt;"
 ) (./ETC/words.tex) (./ETC/abbre.tex) (./Thesis.aux)
 \openout1 = `Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
-0.
+1.
 
 (c:/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -2324,51 +2327,17 @@ Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
 
 ))
 \c@lstlisting=\count479
-Package hyperref Info: Link coloring ON on input line 30.
+Package hyperref Info: Link coloring ON on input line 31.
  (./Thesis.out)
 (./Thesis.out)
-\@outlinefile=\write10
-\openout10 = `Thesis.out'.
+\@outlinefile=\write11
+\openout11 = `Thesis.out'.
 
- (./ETC/sign.tex
-LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
-(Font)              scaled to size 17.99998pt on input line 4.
-LaTeX Font Info:    Font shape `TU/IRZar(0)/m/n' will be
-(Font)              scaled to size 25.92003pt on input line 5.
-LaTeX Font Info:    Font shape `TU/IRNazanin(0)/b/n' will be
-(Font)              scaled to size 12.5pt on input line 11.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
-
-
-(c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
-
-
-(c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 26
-.
-
-(c:/texlive/2024/texmf-dist/tex/latex/wasysym/uwasy.fd
-File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
-)) (./ETC/taahod.tex
-[1
-
-\openout5 = `Thesis.xdy'.
-
-
-]
-LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
-(Font)              scaled to size 21.59999pt on input line 5.
-LaTeX Font Info:    Font shape `TU/IRNazanin(0)/b/n' will be
-(Font)              scaled to size 21.59999pt on input line 5.
+ (./Thesis.glsdefs)
 
 Package fontspec Info: IRNazanin scale = 1.25.
 
-LaTeX Info: Redefining \persianfont on input line 23.
+LaTeX Info: Redefining \persianfont on input line 34.
 
 Package fontspec Info: Linux Libertine scale = 1.
 
@@ -2425,24 +2394,54 @@ ex-text;"
 xt;"
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
-LaTeX Info: Redefining \latinfont on input line 23.
-) (./ETC/taghdim.tex [2
+LaTeX Info: Redefining \latinfont on input line 34.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
 
-]
-LaTeX Font Info:    Font shape `TU/IranNastaliq(0)/m/n' will be
-(Font)              scaled to size 20.0pt on input line 15.
-LaTeX Font Info:    Font shape `TU/IranNastaliq(0)/m/n' will be
-(Font)              scaled to size 34.56pt on input line 15.
-) (./Chapters/Abstract/Fa.tex [3]
+
+(c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
+
+
+(c:/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 34
+.
+
+(c:/texlive/2024/texmf-dist/tex/latex/wasysym/uwasy.fd
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+)
+File: ./Pic/Logo/Fa.png Graphic file (type bmp)
+<./Pic/Logo/Fa.png>
 LaTeX Font Info:    Font shape `TU/IRNazanin(0)/b/n' will be
-(Font)              scaled to size 17.99998pt on input line 2.
-) [4
+(Font)              scaled to size 12.5pt on input line 34.
+
+
+LaTeX Font Warning: Font shape `TU/IRTitr(1)/b/n' undefined
+(Font)              using `TU/IRTitr(1)/m/n' instead on input line 34.
+
+LaTeX Font Info:    Font shape `TU/IRTitr(1)/m/n' will be
+(Font)              scaled to size 23.00003pt on input line 34.
+LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
+(Font)              scaled to size 15.0pt on input line 34.
+LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
+(Font)              scaled to size 17.99998pt on input line 34.
+LaTeX Font Info:    Font shape `TU/IRNazanin(0)/b/n' will be
+(Font)              scaled to size 17.99998pt on input line 34.
+[1
+
+\openout6 = `Thesis.xdy'.
+
+] (./Chapters/Abstract/Fa.tex) [2
+
 
 ]
 LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
-(Font)              scaled to size 31.1pt on input line 41.
+(Font)              scaled to size 31.1pt on input line 39.
 LaTeX Font Info:    Font shape `TU/IRNazanin(0)/b/n' will be
-(Font)              scaled to size 31.1pt on input line 41.
+(Font)              scaled to size 31.1pt on input line 39.
 
 Package fontspec Info: IRNazanin scale = 1.25.
 
@@ -2489,34 +2488,27 @@ pping=persian-tex-text;color=F5F5F5FF
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/IRNazanin(1)/b/n' will be
-(Font)              scaled to size 31.1pt on input line 41.
- (./Thesis.toc [1
+(Font)              scaled to size 31.1pt on input line 39.
+ (./Thesis.toc)
+\tf@toc=\write12
+\openout12 = `Thesis.toc'.
+
+ [1
 
 
-])
-\tf@toc=\write11
-\openout11 = `Thesis.toc'.
+] [2
 
- [2]
+
+]
 
 Package fontspec Info: IRNazanin scale = 1.25.
 
- (./Thesis.lof
-File: ./Pic//ETCMobile/0GTo6G/mainFig.pdf Graphic file (type pdf)
-<use ./Pic//ETCMobile/0GTo6G/mainFig.pdf>
-File: ./Pic//calcdistance/mainFig.pdf Graphic file (type pdf)
-<use ./Pic//calcdistance/mainFig.pdf>
-LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/m/n' will be
-(Font)              scaled to size 11.00006pt on input line 2.
-File: ./Pic//Roadmap/mainFig.pdf Graphic file (type pdf)
-<use ./Pic//Roadmap/mainFig.pdf>
-)
-\tf@lof=\write12
-\openout12 = `Thesis.lof'.
-
- [3
+ (./Thesis.lof)
+\tf@lof=\write13
+\openout13 = `Thesis.lof'.
 
 
+[3
 
 ] [4
 
@@ -2526,8 +2518,8 @@ File: ./Pic//Roadmap/mainFig.pdf Graphic file (type pdf)
 Package fontspec Info: IRNazanin scale = 1.25.
 
  (./Thesis.lot)
-\tf@lot=\write13
-\openout13 = `Thesis.lot'.
+\tf@lot=\write14
+\openout14 = `Thesis.lot'.
 
  [5
 
@@ -2539,446 +2531,13 @@ Package fontspec Info: IRNazanin scale = 1.25.
 Package fontspec Info: IRNazanin scale = 1.25.
 
 LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/m/n' will be
+(Font)              scaled to size 11.00006pt on input line 26.
+LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/m/n' will be
 (Font)              scaled to size 13.20007pt on input line 26.
 LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/b/n' will be
 (Font)              scaled to size 13.20007pt on input line 26.
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--33
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--38
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 41--41
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 44--46
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 49--49
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--52
-[][]
- []
-
-[7
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 55--57
-[][]
- []
-
-)
-Underfull \hbox (badness 10000) in paragraph at lines 62--44
-[][]
- []
-
-[8] (./Chapters/Introduction.tex
-فصل 1.
-LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
-(Font)              scaled to size 25.925pt on input line 1.
-LaTeX Font Info:    Font shape `TU/IRNazanin(0)/b/n' will be
-(Font)              scaled to size 25.925pt on input line 1.
-File: ./Pic//ETCMobile/0GTo6G/mainFig.pdf Graphic file (type pdf)
-<use ./Pic//ETCMobile/0GTo6G/mainFig.pdf>
-LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
-(Font)              scaled to size 11.25pt on input line 8.
-LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
-(Font)              scaled to size 8.75pt on input line 16.
-LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 16.
-LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/m/n' will be
-(Font)              scaled to size 8.80005pt on input line 16.
-LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/m/n' will be
-(Font)              scaled to size 6.60004pt on input line 16.
-LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/m/n' will be
-(Font)              scaled to size 7.70004pt on input line 18.
-[1
-
-
-] (c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2024/02/21 1.10 listings language file
-)
-(c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang2.sty
-File: lstlang2.sty 2024/02/21 1.10 listings language file
-)
-(c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang3.sty
-File: lstlang3.sty 2024/02/21 1.10 listings language file
-)
-(c:/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2024/02/21 1.10 (Carsten Heinz)
-)
-(c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2024/02/21 1.10 listings language file
-)
-(c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang2.sty
-File: lstlang2.sty 2024/02/21 1.10 listings language file
-)
-(c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang3.sty
-File: lstlang3.sty 2024/02/21 1.10 listings language file
-)
-(c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2024/02/21 1.10 listings language file
-)
-(c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang2.sty
-File: lstlang2.sty 2024/02/21 1.10 listings language file
-)
-(c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang3.sty
-File: lstlang3.sty 2024/02/21 1.10 listings language file
-)
-(c:/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2024/02/21 1.10 (Carsten Heinz)
-) [2]
-LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <10> not available
-(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 88.
-LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/m/it' will be
-(Font)              scaled to size 11.00006pt on input line 99.
-LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
-(Font)              scaled to size 15.0pt on input line 121.
-
-\endL or \endR problem (2 missing, 0 extra) detected at line 121
- [][][]\U/pzd/m/n/12 4[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 121
-[][][] [][][][][]
- []
-
-
-\endL or \endR problem (2 missing, 0 extra) detected at line 125
- [][][]\U/pzd/m/n/12 4[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 125
-[][][] [][][][][]
- []
-
-
-\endL or \endR problem (2 missing, 0 extra) detected at line 129
- [][][]\U/pzd/m/n/12 4[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 129
-[][][] [][][][][]
- []
-
-
-\endL or \endR problem (2 missing, 0 extra) detected at line 131
- [][][]\U/pzd/m/n/12 4[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 131
-[][][] [][][][][]
- []
-
-
-\endL or \endR problem (2 missing, 0 extra) detected at line 134
- [][][]\U/pzd/m/n/12 4[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 134
-[][][] [][][][][]
- []
-
-
-\endL or \endR problem (2 missing, 0 extra) detected at line 136
- [][][]\U/pzd/m/n/12 4[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 136
-[][][] [][][][][]
- []
-
-
-\endL or \endR problem (2 missing, 0 extra) detected at line 139
- [][][]\U/pzd/m/n/12 4[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 139
-[][][] [][][][][]
- []
-
-
-\endL or \endR problem (2 missing, 0 extra) detected at line 142
- [][][]\U/pzd/m/n/12 4[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 142
-[][][] [][][][][]
- []
-
-
-\endL or \endR problem (2 missing, 0 extra) detected at line 144
- [][][]\U/pzd/m/n/12 4[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 144
-[][][] [][][][][]
- []
-
-
-\endL or \endR problem (2 missing, 0 extra) detected at line 145
- [][][]\U/pzd/m/n/12 4[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 145
-[][][] [][][][][]
- []
-
-[3]
-File: ./Pic//calcdistance/mainFig.pdf Graphic file (type pdf)
-<use ./Pic//calcdistance/mainFig.pdf>
-LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/m/n' will be
-(Font)              scaled to size 9.90005pt on input line 156.
-
-\endL or \endR problem (2 missing, 0 extra) detected at line 165
- [][][]\U/pzd/m/n/12 4[][]
- []
-
-
-\endL or \endR problem (0 missing, 2 extra) detected at line 165
-[][][] [][][][][]
- []
-
-
-LaTeX Warning: Reference `chap:approach' on page 4 undefined on input line 178.
-
-
-
-LaTeX Warning: Reference `chap:simulation' on page 4 undefined on input line 18
-0.
-
-) (./Chapters/Concepts.tex [4]
-فصل 2.
-LaTeX Font Info:    Font shape `TU/IRNazanin(0)/b/n' will be
-(Font)              scaled to size 15.0pt on input line 14.
-File: ../../../Documents/Boostan/tex/images/icon/note.png Graphic file (type bm
-p)
-<../../../Documents/Boostan/tex/images/icon/note.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5
-
-]
-File: ../../../Documents/Boostan/tex/images/icon/home.png Graphic file (type bm
-p)
-<../../../Documents/Boostan/tex/images/icon/home.png>
-File: ../../../Documents/Boostan/tex/images/icon/referO.png Graphic file (type 
-bmp)
-<../../../Documents/Boostan/tex/images/icon/referO.png>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 12.03764pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.03764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
-
-[6]
-File: ../../../Documents/Boostan/tex/images/icon/infoRR.png Graphic file (type 
-bmp)
-<../../../Documents/Boostan/tex/images/icon/infoRR.png>
-File: ../../../Documents/Boostan/tex/images/icon/warining.png Graphic file (typ
-e bmp)
-<../../../Documents/Boostan/tex/images/icon/warining.png>
-File: ../../../Documents/Boostan/tex/images/icon/archeryf.pdf Graphic file (typ
-e pdf)
-<use ../../../Documents/Boostan/tex/images/icon/archeryf.pdf>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 12.03764pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.03764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
-
-[7]
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 68.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 68.
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 72.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 72.
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 76.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 76.
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 80.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 80.
-Package mdframed Info: mdframed works in twoside mode on input line 82.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 82.
-
-
-Package mdframed Warning: You got a bad break
-(mdframed)                because the last box will be empty
-(mdframed)                you have to change it manually
-(mdframed)                by changing the text, the space
-(mdframed)                or something else on input line 84.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 12.03764pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.03764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
-
-[8]
-Package mdframed Info: mdframed works in twoside mode on input line 88.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 88.
-Package mdframed Info: mdframed works in twoside mode on input line 96.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 96.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 97.
-Package mdframed Info: mdframed works in twoside mode on input line 99.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 99.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 100.
-LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/it' will be
-(Font)              scaled to size 12.5pt on input line 105.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 12.03764pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.03764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
-
-[9]
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 112.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 112.
-Package mdframed Info: mdframed inside twoside mode but
-(mdframed)             works with oneside mode on input line 115.
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 115.
- (c:/texlive/2024/texmf-dist/tex/latex/listings/lstlang1.sty
-File: lstlang1.sty 2024/02/21 1.10 listings language file
-)
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 123.
-
-(./Code/code3.m) (./Code/prog3.m
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 12.03764pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.03764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
-
-[10]) (./Code/code4.m)) (./Chapters/RelatedWorks.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 12.03764pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.03764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
-
-[11]
-فصل 3.
-
-Overfull \hbox (7.73866pt too wide) in paragraph at lines 5--10
-[][]\TU/IRNazanin(0)/m/n/10 مسئله‌ی بهینه‌سازی شبکه‌های تلفن همراه از جنبه‌های 
-مختلفی موردمطالعه قرار گرفته است که می‌توان آن‌ها را در دسته‌بندی‌های[]
- []
-
-File: ./Pic//Roadmap/mainFig.pdf Graphic file (type pdf)
-<use ./Pic//Roadmap/mainFig.pdf>
-[12
-
-]
-File: ./Pic//Person/LukmanMedriavinSilalahi.jpg Graphic file (type bmp)
-<./Pic//Person/LukmanMedriavinSilalahi.jpg>
-File: ./Pic//Person/MarcoSousa.png Graphic file (type bmp)
-<./Pic//Person/MarcoSousa.png>
-File: ./Pic//Person/peeraponguthansakul.jpg Graphic file (type bmp)
-<./Pic//Person/peeraponguthansakul.jpg>
-File: ./Pic//Person/YuliarmanSaragih.jpg Graphic file (type bmp)
-<./Pic//Person/YuliarmanSaragih.jpg>
-) (./Chapters/Conclusion.tex [13]
-فصل 4.
-) [14
-
-] (./Thesis.bbl
-
-Package fontspec Info: IRNazanin scale = 1.25.
-
-
-Underfull \hbox (badness 6859) in paragraph at lines 9--12
-[][]\TU/LinuxLibertine(0)/m/n/10 GSMA, “The Mobile Economy 2024,” \TU/LinuxLibe
-rtine(0)/m/it/10 [Online], Available: https://www.gsma.com/solutions-and-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 9--12
-[]\TU/LinuxLibertine(0)/m/it/10 impact/connectivity-for-good/mobile-economy/wp-
-content/uploads/2024/02/260224-The-Mobile-Economy-[]
- []
-
-) [15
-
-
-] (./Thesis.gls
-
-Package fontspec Info: IRNazanin scale = 1.25.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 28--30
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
 [][]
  []
 
@@ -2988,91 +2547,671 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--35
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--43
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 46--46
+Underfull \hbox (badness 10000) in paragraph at lines 43--45
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 49--51
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--54
+Underfull \hbox (badness 10000) in paragraph at lines 52--52
 [][]
  []
 
 
-Underfull \vbox (badness 3148) has occurred while \output is active []
+Underfull \vbox (badness 2359) has occurred while \output is active []
+
+ [7
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--57
+]
+Underfull \hbox (badness 10000) in paragraph at lines 55--59
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--68
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--71
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--74
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--96
+[][]
+ []
+
+
+Underfull \vbox (badness 7796) has occurred while \output is active []
+
+ [8]
+Underfull \hbox (badness 10000) in paragraph at lines 100--103
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--106
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 109--115
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--121
+[][]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+Underfull \hbox (badness 10000) in paragraph at lines 125--135
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--138
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--141
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 144--144
 [][]
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 60--54
+Underfull \hbox (badness 10000) in paragraph at lines 151--42
 [][]
  []
 
-[16
+[10] (./Chapters/Introduction.tex
+فصل 1.
+LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
+(Font)              scaled to size 25.925pt on input line 1.
+LaTeX Font Info:    Font shape `TU/IRNazanin(0)/b/n' will be
+(Font)              scaled to size 25.925pt on input line 1.
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/m/n' will be
+(Font)              scaled to size 7.70004pt on input line 5.
+LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/m/n' will be
+(Font)              scaled to size 8.80005pt on input line 5.
+LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/m/n' will be
+(Font)              scaled to size 6.60004pt on input line 5.
+LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
+(Font)              scaled to size 8.75pt on input line 9.
+LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
+(Font)              scaled to size 10.0pt on input line 9.
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+[1
+
+
+]
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+
+Overfull \hbox (14.36903pt too wide) in paragraph at lines 53--81
+[]\TU/IRNazanin(0)/m/n/10 لوله[][][][][][][][][][][][] []یادگیری ژرف[] و به چه 
+شکلی ادغام می‌شود. این طبقه‌بندی شامل ادغام دانش دامنه در انتخاب مدل شبکه عصبی،
+ سفارشی‌سازی[]
+ []
+
+
+Overfull \hbox (6.1288pt too wide) in paragraph at lines 53--81
+[]\TU/IRNazanin(0)/m/n/10 مدل شبکه عصبی، ساخت معماری ترکیب دانش و داده، طراحی [
+]تابع زیان[][][][][][][][][][][][] و پیکربندی []فراپارامتر[][][][][][][][][][][
+][] است. این چارچوب ساختاریافته،[]
+ []
+
+
+Overfull \vbox (0.12314pt too high) has occurred while \output is active []
+
+
+[2]
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+
+Overfull \hbox (3.7376pt too wide) in paragraph at lines 86--96
+[][][]\TU/LinuxLibertine(0)/m/n/10 SoRP[][][][][][][][] \TU/IRNazanin(0)/m/n/10
+ هستند و به دست آوردن راه‌حل‌های بهینه سراسری برای آن‌ها در زمان چندجمله‌ای دشو
+ار است. روش‌های مرسوم مدل‌محور،[]
+ []
+
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+
+Overfull \hbox (0.6061pt too wide) in paragraph at lines 97--111
+[]\TU/IRNazanin(0)/m/n/10 رویکرد امکان طراحی معماری‌های شبکه‌ای خاص مسئله و توا
+بع فعال‌سازی سفارشی را فراهم می‌کند که برای مدیریت محدودیت‌های[]
+ []
+
+[3]
+Overfull \hbox (17.41518pt too wide) in paragraph at lines 122--142
+[]\TU/IRNazanin(0)/m/n/10 شده، منجر به مدل‌سازی غیردقیق می‌شوند. علاوه‌براین، ذ
+ات تکرارشونده این روش‌ها پیچیدگی محاسباتی بالایی را برای بهینه‌سازی‌های[]
+ []
+
+[4] Excluding 'comment' comment. Excluding 'comment' comment.
+Excluding 'comment' comment.) (./Chapters/Concepts.tex [5]
+فصل 2.
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6
+
+]
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.03764pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.03764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
+
+[7]
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+
+Overfull \vbox (0.12314pt too high) has occurred while \output is active []
 
 
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.03764pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.03764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
+
+[8] Excluding 'comment' comment. Excluding 'comment' comment.)
+(./Chapters/RelatedWorks.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.03764pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.03764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
+
+[9]
+فصل 3.
+
+Overfull \hbox (7.60939pt too wide) in paragraph at lines 11--28
+[][]\TU/IRNazanin(0)/m/n/10 گسترش ژرف[] یک روش مبتنی بر []یادگیری ژرف[] []مدل-م
+حور[][][][][][][][][][][][] است که با تبدیل الگوریتم‌های تکرارشونده پیچیده به ل
+ایه‌های ساختاریافته[]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10
+
+]
+Overfull \vbox (8.49373pt too high) has occurred while \output is active []
+
+
+[11] [12]
+Underfull \hbox (badness 3803) in paragraph at lines 196--196
+[][][]|[]\TU/LinuxLibertine(0)/m/n/8 Transmitting and Reflecting Non-Orthogonal
+ Multiple[]
+ []
+
+[13]
+Underfull \vbox (badness 1400) has occurred while \output is active []
+
+ [14]
+[15] [16]
+Overfull \hbox (14.87611pt too wide) in paragraph at lines 394--401
+[]\TU/IRNazanin(0)/m/n/10 سطح مورد نیاز کاهش یابد. در نهایت، پژوهشگران نتیجه‌گی
+ری می‌کنند که OpenRANet می‌تواند به عنوان یک بنیان برای استراتژی‌های[]
+ []
+
+Excluding 'comment' comment.
+Overfull \hbox (5.49257pt too wide) in paragraph at lines 443--449
+[][]\TU/IRNazanin(0)/m/n/10 پژوهش دیگر به بررسی دسته گسترده‌ای از مسائل بهینه‌س
+ازی تخصیص منابع به صورت غیرمتمرکزدر شبکه‌های بی‌سیم می‌پردازد.[]
+ []
+
+[17]
+Underfull \vbox (badness 1400) has occurred while \output is active []
+
+ [18]
+Underfull \vbox (badness 1152) has occurred while \output is active []
+
+ [19]
+Overfull \hbox (6.48988pt too wide) in paragraph at lines 548--555
+[]\TU/IRNazanin(0)/m/n/10 موفقیت در آینده، نیاز به تحقیق در زمینه‌ی توسعه مدل‌ه
+ای سبک‌وزن []یادگیری ماشین[]، افزایش تعمیم‌پذیری الگوریتم‌ها و انتقال‌پذیری[]
+ []
+
+Excluding 'comment' comment.
+Overfull \hbox (2.47133pt too wide) in paragraph at lines 597--604
+[][]\TU/IRNazanin(0)/m/n/10 پژوهشگران ابتدا محدودیت‌های روش‌های مرسوم []مدل-محو
+ر[] و روش‌های صرفاً داده-محور را برای توجیه نیاز به رویکرد دانش‌محور[]
+ []
+
+[20] [21] Excluding 'comment' comment.
+Overfull \hbox (7.86827pt too wide) in paragraph at lines 834--858
+[][]\TU/LinuxLibertine(0)/m/n/10 NET[] \TU/IRNazanin(0)/m/n/10 طراحی می‌کنند. [
+]\TU/LinuxLibertine(0)/m/n/10 ADMM-NET[]\TU/IRNazanin(0)/m/n/10 ، الگوریتم تکرا
+رشونده [][]\TU/LinuxLibertine(0)/m/n/10 ADMM[] \TU/IRNazanin(0)/m/n/10 پیشنهادی
+ را به یک معماری لایه‌به‌لایه باز می‌کند و عملیات‌های[]
+ []
+
+Excluding 'comment' comment. Excluding 'comment' comment.)
+(./Chapters/Conclusion.tex [22] [23]
+فصل 4.
+) [24
+
+] (./Thesis.bbl
+
+Package fontspec Info: IRNazanin scale = 1.25.
+
+LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/m/it' will be
+(Font)              scaled to size 11.00006pt on input line 20.
+) [25
+
+
+] (./Thesis.gls
+
+Package fontspec Info: IRNazanin scale = 1.25.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--35
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--40
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--49
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--77
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--95
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--111
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
+[][]
+ []
+
+[26
+
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 119--119
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--132
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--151
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--161
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--172
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 175--175
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--184
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 187--192
+[][]
+ []
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 198--52
+[][]
+ []
+
+
+Underfull \vbox (badness 2980) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.03764pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.03764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
+
+[27]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.03764pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.03764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
+
+[28
 
 ] (./Thesis.bls
 
 Package fontspec Info: IRNazanin scale = 1.25.
 
+LaTeX Font Info:    Font shape `TU/IRNazanin(0)/b/n' will be
+(Font)              scaled to size 15.0pt on input line 26.
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--28
+Underfull \hbox (badness 10000) in paragraph at lines 28--35
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--35
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 41--41
+Underfull \hbox (badness 10000) in paragraph at lines 44--50
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--44
+Underfull \hbox (badness 10000) in paragraph at lines 53--75
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 47--47
+Underfull \hbox (badness 10000) in paragraph at lines 78--78
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--52
+Underfull \hbox (badness 10000) in paragraph at lines 81--81
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--95
+[][]
+ []
+
+[29
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--108
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--124
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--127
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--133
+[][]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--140
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--146
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--155
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 160--163
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
+[][]
+ []
+
+
+Underfull \vbox (badness 3240) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.03764pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.03764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
+
+[30]
+Underfull \hbox (badness 10000) in paragraph at lines 169--177
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--180
 [][]
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 55--54
+Underfull \hbox (badness 10000) in paragraph at lines 183--52
 [][]
  []
 
-[17
 
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.03764pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.03764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
+(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
+
+[31
 
 ] (./Thesis.ind
 
 Package fontspec Info: IRNazanin scale = 1.25.
 
- [18
+ [32
 
 
 
@@ -3081,56 +3220,30 @@ Package fontspec Info: IRNazanin scale = 1.25.
 
 Package fontspec Info: IRNazanin scale = 1.25.
 
-LaTeX Info: Redefining \persianfont on input line 56.
+LaTeX Info: Redefining \persianfont on input line 54.
 
 Package fontspec Info: Linux Libertine scale = 1.1.
 
-LaTeX Info: Redefining \latinfont on input line 56.
- (./Chapters/Abstract/En.tex
-LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/m/n' will be
-(Font)              scaled to size 15.84007pt on input line 3.
-LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/b/n' will be
-(Font)              scaled to size 15.84007pt on input line 3.
-LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/b/n' will be
-(Font)              scaled to size 11.00006pt on input line 7.
-)
-(./Chapters/Titles/English.tex [19
-
-
-]
-
-Package fontspec Info: IRNazanin scale = 1.25.
-
-LaTeX Info: Redefining \persianfont on input line 8.
-
-Package fontspec Info: Linux Libertine scale = 1.
-
-LaTeX Info: Redefining \latinfont on input line 8.
-LaTeX Font Info:    Font shape `TU/LinuxLibertine(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 8.
-File: ./Pic/Logo/En.png Graphic file (type bmp)
-<./Pic/Logo/En.png>
-LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/b/n' will be
-(Font)              scaled to size 16.50009pt on input line 27.
- [20]) (./Thesis.aux)
+LaTeX Info: Redefining \latinfont on input line 54.
+ (./Thesis.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 11F1CC2634605B848F3473B31ADA686D;4334.
+(rerunfilecheck)             Checksum: 0697B3C7A1ED0772D38B411870B2C619;3428.
  ) 
 Here is how much of TeX's memory you used:
- 43385 strings out of 474773
- 854245 string characters out of 5761289
- 2029842 words of memory out of 5000000
- 64394 multiletter control sequences out of 15000+600000
- 566334 words of font info for 185 fonts, out of 8000000 for 9000
+ 47511 strings out of 474773
+ 988224 string characters out of 5761289
+ 1942842 words of memory out of 5000000
+ 68599 multiletter control sequences out of 15000+600000
+ 565862 words of font info for 170 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 96i,12n,134p,2434b,2073s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 96i,14n,134p,2434b,1391s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Thesis.pdf (32 pages).
+Output written on Thesis.pdf (44 pages).
