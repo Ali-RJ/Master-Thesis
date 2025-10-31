@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.9.27)  29 OCT 2025 16:32
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2025.9.27)  31 OCT 2025 06:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2489,26 +2489,64 @@ pping=persian-tex-text;color=F5F5F5FF
 
 LaTeX Font Info:    Font shape `TU/IRNazanin(1)/b/n' will be
 (Font)              scaled to size 31.1pt on input line 39.
- (./Thesis.toc)
+ (./Thesis.toc [1
+
+
+])
 \tf@toc=\write12
 \openout12 = `Thesis.toc'.
 
- [1
-
-
-] [2
-
-
-]
+ [2]
 
 Package fontspec Info: IRNazanin scale = 1.25.
 
- (./Thesis.lof)
+ (./Thesis.lof
+File: ./Pic/ComprehensiveReview_concepts_fig1.png Graphic file (type bmp)
+<./Pic/ComprehensiveReview_concepts_fig1.png>
+File: ./Pic/ComprehensiveReview_concepts_fig2.png Graphic file (type bmp)
+<./Pic/ComprehensiveReview_concepts_fig2.png>
+File: ./Pic/ComprehensiveReview_concepts_fig3.png Graphic file (type bmp)
+<./Pic/ComprehensiveReview_concepts_fig3.png>
+File: ./Pic/ComprehensiveSurvey_concepts_fig4.png Graphic file (type bmp)
+<./Pic/ComprehensiveSurvey_concepts_fig4.png>
+File: ./Pic/ComprehensiveSurvey_concepts_fig5.png Graphic file (type bmp)
+<./Pic/ComprehensiveSurvey_concepts_fig5.png>
+File: ./Pic/ComprehensiveReview_related_fig1.png Graphic file (type bmp)
+<./Pic/ComprehensiveReview_related_fig1.png>
+LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/m/n' will be
+(Font)              scaled to size 11.00006pt on input line 6.
+File: ./Pic/OptimizingWireless_related_fig1.png Graphic file (type bmp)
+<./Pic/OptimizingWireless_related_fig1.png>
+File: ./Pic/OptimizingWireless_related_fig2.png Graphic file (type bmp)
+<./Pic/OptimizingWireless_related_fig2.png>
+File: ./Pic/NeuralSumRate_related_fig.png Graphic file (type bmp)
+<./Pic/NeuralSumRate_related_fig.png>
+File: ./Pic/UnfoldedWMMSE_related_fig.png Graphic file (type bmp)
+<./Pic/UnfoldedWMMSE_related_fig.png>
+File: ./Pic/ORAN_related_fig.png Graphic file (type bmp)
+<./Pic/ORAN_related_fig.png>
+File: ./Pic/JointActive_related_fig1.png Graphic file (type bmp)
+<./Pic/JointActive_related_fig1.png>
+File: ./Pic/JointActive_related_fig2.png Graphic file (type bmp)
+<./Pic/JointActive_related_fig2.png>
+File: ./Pic/DeepUnfoldingBased_fig1.png Graphic file (type bmp)
+<./Pic/DeepUnfoldingBased_fig1.png>
+File: ./Pic/JointDesign_fig1.png Graphic file (type bmp)
+<./Pic/JointDesign_fig1.png>
+File: ./Pic/ConstantModulus_fig.png Graphic file (type bmp)
+<./Pic/ConstantModulus_fig.png>
+File: ./Pic/DeepLearningBased_fig1.png Graphic file (type bmp)
+<./Pic/DeepLearningBased_fig1.png>
+File: ./Pic/SignalProcessing_fig1.png Graphic file (type bmp)
+<./Pic/SignalProcessing_fig1.png>
+)
 \tf@lof=\write13
 \openout13 = `Thesis.lof'.
 
 
 [3
+
+
 
 ] [4
 
@@ -2531,8 +2569,6 @@ Package fontspec Info: IRNazanin scale = 1.25.
 Package fontspec Info: IRNazanin scale = 1.25.
 
 LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/m/n' will be
-(Font)              scaled to size 11.00006pt on input line 26.
-LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/m/n' will be
 (Font)              scaled to size 13.20007pt on input line 26.
 LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/b/n' will be
 (Font)              scaled to size 13.20007pt on input line 26.
@@ -2542,71 +2578,50 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--28
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
+Underfull \hbox (badness 10000) in paragraph at lines 37--51
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--40
+Underfull \hbox (badness 10000) in paragraph at lines 54--56
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--45
+Underfull \hbox (badness 10000) in paragraph at lines 59--63
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--48
+Underfull \hbox (badness 10000) in paragraph at lines 66--68
 [][]
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 52--52
-[][]
- []
-
-
-Underfull \vbox (badness 2359) has occurred while \output is active []
-
- [7
+[7
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 55--59
+Underfull \hbox (badness 10000) in paragraph at lines 73--73
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--68
+Underfull \hbox (badness 10000) in paragraph at lines 76--83
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--71
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
+Underfull \hbox (badness 10000) in paragraph at lines 89--100
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 77--79
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 83--96
-[][]
- []
-
-
-Underfull \vbox (badness 7796) has occurred while \output is active []
-
- [8]
-Underfull \hbox (badness 10000) in paragraph at lines 100--103
+Underfull \hbox (badness 10000) in paragraph at lines 103--103
 [][]
  []
 
@@ -2616,49 +2631,88 @@ Underfull \hbox (badness 10000) in paragraph at lines 106--106
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--115
+Underfull \vbox (badness 7796) has occurred while \output is active []
+
+ [8]
+Underfull \hbox (badness 10000) in paragraph at lines 109--117
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--118
+Underfull \hbox (badness 10000) in paragraph at lines 120--153
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 121--121
+Underfull \hbox (badness 10000) in paragraph at lines 157--163
+[][]
+ []
+
+[9]
+Underfull \hbox (badness 10000) in paragraph at lines 166--170
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--187
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 190--190
+[][]
+ []
+
+Missing character: There is no ‑ (U+2011) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‑ (U+2011) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‑ (U+2011) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‑ (U+2011) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--209
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--238
 [][]
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [9]
-Underfull \hbox (badness 10000) in paragraph at lines 125--135
+ [10]
+Underfull \hbox (badness 10000) in paragraph at lines 241--243
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--138
+Underfull \hbox (badness 10000) in paragraph at lines 246--254
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--141
+Underfull \hbox (badness 10000) in paragraph at lines 257--257
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--144
+Underfull \hbox (badness 10000) in paragraph at lines 260--272
 [][]
  []
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 151--42
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11])
+Underfull \hbox (badness 10000) in paragraph at lines 275--42
 [][]
  []
 
-[10] (./Chapters/Introduction.tex
+[12] (./Chapters/Introduction.tex
 فصل 1.
 LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
 (Font)              scaled to size 25.925pt on input line 1.
@@ -2761,56 +2815,21 @@ Overfull \hbox (17.41518pt too wide) in paragraph at lines 122--142
 [4] Excluding 'comment' comment. Excluding 'comment' comment.
 Excluding 'comment' comment.) (./Chapters/Concepts.tex [5]
 فصل 2.
-Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [6
+File: ./Pic/ComprehensiveReview_concepts_fig1.png Graphic file (type bmp)
+<./Pic/ComprehensiveReview_concepts_fig1.png>
+LaTeX Font Info:    Font shape `TU/IRNazanin(0)/m/n' will be
+(Font)              scaled to size 11.25pt on input line 11.
+[6
 
 ]
-Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
+
+Package amsfonts Warning: Obsolete command \bold; \mathbf should be used instea
+d on input line 44.
+
+
+Underfull \vbox (badness 3601) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.03764pt, for example:
@@ -2820,38 +2839,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
 
 [7]
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
-ript=arab;mapping=persian-tex-text;!
-
-Overfull \vbox (0.12314pt too high) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.03764pt, for example:
@@ -2860,8 +2847,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
 
-[8] Excluding 'comment' comment. Excluding 'comment' comment.)
-(./Chapters/RelatedWorks.tex
+[8]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.03764pt, for example:
@@ -2871,83 +2860,297 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
 
 [9]
-فصل 3.
-
-Overfull \hbox (7.60939pt too wide) in paragraph at lines 11--28
-[][]\TU/IRNazanin(0)/m/n/10 گسترش ژرف[] یک روش مبتنی بر []یادگیری ژرف[] []مدل-م
-حور[][][][][][][][][][][][] است که با تبدیل الگوریتم‌های تکرارشونده پیچیده به ل
-ایه‌های ساختاریافته[]
- []
+File: ./Pic/ComprehensiveReview_concepts_fig2.png Graphic file (type bmp)
+<./Pic/ComprehensiveReview_concepts_fig2.png>
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.03764pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.03764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
 
- [10
+(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
 
-]
-Overfull \vbox (8.49373pt too high) has occurred while \output is active []
+[10]
+File: ./Pic/ComprehensiveReview_concepts_fig3.png Graphic file (type bmp)
+<./Pic/ComprehensiveReview_concepts_fig3.png>
 
 
-[11] [12]
-Underfull \hbox (badness 3803) in paragraph at lines 196--196
-[][][]|[]\TU/LinuxLibertine(0)/m/n/8 Transmitting and Reflecting Non-Orthogonal
- Multiple[]
- []
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.03764pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.03764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
+
+[11]
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+File: ./Pic/ComprehensiveSurvey_concepts_fig4.png Graphic file (type bmp)
+<./Pic/ComprehensiveSurvey_concepts_fig4.png>
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.03764pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.03764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
+
+[12]
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+File: ./Pic/ComprehensiveSurvey_concepts_fig5.png Graphic file (type bmp)
+<./Pic/ComprehensiveSurvey_concepts_fig5.png>
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.03764pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.03764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
 
 [13]
-Underfull \vbox (badness 1400) has occurred while \output is active []
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
 
- [14]
-[15] [16]
-Overfull \hbox (14.87611pt too wide) in paragraph at lines 394--401
-[]\TU/IRNazanin(0)/m/n/10 سطح مورد نیاز کاهش یابد. در نهایت، پژوهشگران نتیجه‌گی
-ری می‌کنند که OpenRANet می‌تواند به عنوان یک بنیان برای استراتژی‌های[]
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.03764pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.03764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
+
+[14]
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‫ (U+202B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ‬ (U+202C) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Excluding 'comment' comment. Excluding 'comment' comment.)
+(./Chapters/RelatedWorks.tex
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.03764pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.03764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
+
+[15]
+فصل 3.
+[16
+
+]
+Underfull \hbox (badness 6725) in paragraph at lines 44--44
+[][][]|[][]\TU/LinuxLibertine(0)/m/n/8 Iterative Algorithm Induced Deep Unfoldi
+ng Neural[][]
  []
 
-Excluding 'comment' comment.
-Overfull \hbox (5.49257pt too wide) in paragraph at lines 443--449
-[][]\TU/IRNazanin(0)/m/n/10 پژوهش دیگر به بررسی دسته گسترده‌ای از مسائل بهینه‌س
-ازی تخصیص منابع به صورت غیرمتمرکزدر شبکه‌های بی‌سیم می‌پردازد.[]
+
+Overfull \hbox (5.49234pt too wide) in paragraph at lines 37--80
+[]\TU/IRNazanin(0)/m/n/10 مانند []شبکه عصبی گسترش ژرف ناشی از الگوریتم تکرارشون
+ده[][][][][][][][][][][][] ([]\TU/LinuxLibertine(0)/m/n/10 IAIDNN[]\TU/IRNazani
+n(0)/m/n/10 ) با هدف کاهش زمان پردازش برخط و حفظ تفسیرپذیری[]
  []
 
-[17]
-Underfull \vbox (badness 1400) has occurred while \output is active []
 
- [18]
-Underfull \vbox (badness 1152) has occurred while \output is active []
+Underfull \vbox (badness 6575) has occurred while \output is active []
+
+ [17]
+[18]
+File: ./Pic/ComprehensiveReview_related_fig1.png Graphic file (type bmp)
+<./Pic/ComprehensiveReview_related_fig1.png>
+LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/m/n' will be
+(Font)              scaled to size 9.90005pt on input line 278.
+
+Underfull \vbox (badness 1881) has occurred while \output is active []
 
  [19]
-Overfull \hbox (6.48988pt too wide) in paragraph at lines 548--555
-[]\TU/IRNazanin(0)/m/n/10 موفقیت در آینده، نیاز به تحقیق در زمینه‌ی توسعه مدل‌ه
-ای سبک‌وزن []یادگیری ماشین[]، افزایش تعمیم‌پذیری الگوریتم‌ها و انتقال‌پذیری[]
- []
-
-Excluding 'comment' comment.
-Overfull \hbox (2.47133pt too wide) in paragraph at lines 597--604
+Overfull \hbox (2.47133pt too wide) in paragraph at lines 311--318
 [][]\TU/IRNazanin(0)/m/n/10 پژوهشگران ابتدا محدودیت‌های روش‌های مرسوم []مدل-محو
 ر[] و روش‌های صرفاً داده-محور را برای توجیه نیاز به رویکرد دانش‌محور[]
  []
 
-[20] [21] Excluding 'comment' comment.
-Overfull \hbox (7.86827pt too wide) in paragraph at lines 834--858
-[][]\TU/LinuxLibertine(0)/m/n/10 NET[] \TU/IRNazanin(0)/m/n/10 طراحی می‌کنند. [
-]\TU/LinuxLibertine(0)/m/n/10 ADMM-NET[]\TU/IRNazanin(0)/m/n/10 ، الگوریتم تکرا
-رشونده [][]\TU/LinuxLibertine(0)/m/n/10 ADMM[] \TU/IRNazanin(0)/m/n/10 پیشنهادی
- را به یک معماری لایه‌به‌لایه باز می‌کند و عملیات‌های[]
+[20] [21]
+File: ./Pic/OptimizingWireless_related_fig1.png Graphic file (type bmp)
+<./Pic/OptimizingWireless_related_fig1.png>
+File: ./Pic/OptimizingWireless_related_fig2.png Graphic file (type bmp)
+<./Pic/OptimizingWireless_related_fig2.png>
+ [22] [23]
+File: ./Pic/NeuralSumRate_related_fig.png Graphic file (type bmp)
+<./Pic/NeuralSumRate_related_fig.png>
+ [24]
+File: ./Pic/UnfoldedWMMSE_related_fig.png Graphic file (type bmp)
+<./Pic/UnfoldedWMMSE_related_fig.png>
+ [25]
+Overfull \hbox (5.49257pt too wide) in paragraph at lines 686--692
+[][]\TU/IRNazanin(0)/m/n/10 پژوهش دیگر به بررسی دسته گسترده‌ای از مسائل بهینه‌س
+ازی تخصیص منابع به صورت غیرمتمرکزدر شبکه‌های بی‌سیم می‌پردازد.[]
  []
 
-Excluding 'comment' comment. Excluding 'comment' comment.)
-(./Chapters/Conclusion.tex [22] [23]
-فصل 4.
-) [24
+[26]
+Underfull \vbox (badness 1400) has occurred while \output is active []
 
-] (./Thesis.bbl
+ [27]
+File: ./Pic/ORAN_related_fig.png Graphic file (type bmp)
+<./Pic/ORAN_related_fig.png>
+
+Underfull \vbox (badness 1082) has occurred while \output is active []
+
+ [28]
+Overfull \hbox (14.87611pt too wide) in paragraph at lines 798--805
+[]\TU/IRNazanin(0)/m/n/10 سطح مورد نیاز کاهش یابد. در نهایت، پژوهشگران نتیجه‌گی
+ری می‌کنند که OpenRANet می‌تواند به عنوان یک بنیان برای استراتژی‌های[]
+ []
+
+[29]
+Overfull \hbox (6.48988pt too wide) in paragraph at lines 856--864
+[]\TU/IRNazanin(0)/m/n/10 موفقیت در آینده، نیاز به تحقیق در زمینه‌ی توسعه مدل‌ه
+ای سبک‌وزن []یادگیری ماشین[]، افزایش تعمیم‌پذیری الگوریتم‌ها و انتقال‌پذیری[]
+ []
+
+File: ./Pic/JointActive_related_fig1.png Graphic file (type bmp)
+<./Pic/JointActive_related_fig1.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30]
+File: ./Pic/JointActive_related_fig2.png Graphic file (type bmp)
+<./Pic/JointActive_related_fig2.png>
+
+[31]
+Missing character: There is no μ ("3BC) in font cmmi10!
+[32]
+File: ./Pic/DeepUnfoldingBased_fig1.png Graphic file (type bmp)
+<./Pic/DeepUnfoldingBased_fig1.png>
+ [33] [34]
+File: ./Pic/JointDesign_fig1.png Graphic file (type bmp)
+<./Pic/JointDesign_fig1.png>
+ [35]
+File: ./Pic/ConstantModulus_fig.png Graphic file (type bmp)
+<./Pic/ConstantModulus_fig.png>
+
+Missing character: There is no ​ (U+200B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+[36]
+File: ./Pic/DeepLearningBased_fig1.png Graphic file (type bmp)
+<./Pic/DeepLearningBased_fig1.png>
+ [37]
+Missing character: There is no ​ (U+200B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no ​ (U+200B) in font IRNazanin/OT:language=dflt;sc
+ript=arab;mapping=persian-tex-text;!
+Missing character: There is no … ("2026) in font cmr10!
+[38]
+Overfull \hbox (0.2704pt too wide) in paragraph at lines 1360--1377
+[]\TU/IRNazanin(0)/m/n/10 در بخش مقدمه توضیح می‌دهند که سامانه‌های ارتباطی بی‌س
+یم تا به امروز عمدتاً بر تعامد منابع تکیه داشته‌اند تا طراحی و پیاده‌سازی[]
+ []
+
+
+Overfull \hbox (3.59071pt too wide) in paragraph at lines 1378--1409
+[]\TU/IRNazanin(0)/m/n/10 سناریوهای اتصال انبوه مانند ارتباطات ماشین-محور انبوه
+ حیاتی است، مشکل به عنوان بازیابی پراکنده در []سنجش فشرده[] مدل‌سازی[]
+ []
+
+File: ./Pic/SignalProcessing_fig1.png Graphic file (type bmp)
+<./Pic/SignalProcessing_fig1.png>
+
+Underfull \hbox (badness 3803) in paragraph at lines 1452--1452
+[][][]|[]\TU/LinuxLibertine(0)/m/n/8 Transmitting and Reflecting Non-Orthogonal
+ Multiple[]
+ []
+
+[39]) (./Chapters/Conclusion.tex [40]
+فصل 4.
+[41
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.3891pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.3891pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.3891pt}.
+
+[42])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.3891pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.3891pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.3891pt}.
+
+[43] (./Thesis.bbl
 
 Package fontspec Info: IRNazanin scale = 1.25.
 
 LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/m/it' will be
 (Font)              scaled to size 11.00006pt on input line 20.
-) [25
+) [44
 
 
 ] (./Thesis.gls
@@ -2955,105 +3158,164 @@ LaTeX Font Info:    Font shape `TU/LinuxLibertine(0)/m/it' will be
 Package fontspec Info: IRNazanin scale = 1.25.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--35
+Underfull \hbox (badness 10000) in paragraph at lines 29--56
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--40
+Underfull \hbox (badness 10000) in paragraph at lines 59--79
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 43--49
+Underfull \vbox (badness 1132) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--124
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 53--77
+Underfull \hbox (badness 10000) in paragraph at lines 127--197
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 80--82
-[][]
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 85--88
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 91--95
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 99--111
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
-[][]
- []
-
-[26
+ [45
 
 
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 119--119
+Underfull \hbox (badness 10000) in paragraph at lines 200--206
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--132
+Underfull \hbox (badness 10000) in paragraph at lines 210--218
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 135--151
+Underfull \hbox (badness 10000) in paragraph at lines 221--240
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--161
+Underfull \hbox (badness 10000) in paragraph at lines 244--254
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--172
+Underfull \hbox (badness 10000) in paragraph at lines 257--277
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--175
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.03764pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.03764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
+
+[46]
+Underfull \hbox (badness 10000) in paragraph at lines 280--285
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 178--184
+Underfull \hbox (badness 10000) in paragraph at lines 288--296
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--192
+Underfull \hbox (badness 10000) in paragraph at lines 299--324
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 329--364
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 367--385
+[][]
+ []
+
+
+Underfull \vbox (badness 5787) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.03764pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.03764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
+
+[47]
+Underfull \hbox (badness 10000) in paragraph at lines 388--390
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 396--421
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 424--424
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 427--450
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 453--481
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 487--493
+[][]
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.03764pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.03764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
+
+[48]
+Underfull \hbox (badness 10000) in paragraph at lines 497--503
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 506--506
 [][]
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 198--52
+Underfull \hbox (badness 10000) in paragraph at lines 510--52
 [][]
  []
 
 
-Underfull \vbox (badness 2980) has occurred while \output is active []
-
-
-
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 12.03764pt, for example:
 (fancyhdr)                \setlength{\headheight}{12.03764pt}.
@@ -3061,16 +3323,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
 
-[27]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 12.03764pt, for example:
-(fancyhdr)                \setlength{\headheight}{12.03764pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
-
-[28
+[49
 
 ] (./Thesis.bls
 
@@ -3079,66 +3332,17 @@ Package fontspec Info: IRNazanin scale = 1.25.
 LaTeX Font Info:    Font shape `TU/IRNazanin(0)/b/n' will be
 (Font)              scaled to size 15.0pt on input line 26.
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--35
+Underfull \hbox (badness 10000) in paragraph at lines 28--49
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--38
+Underfull \hbox (badness 10000) in paragraph at lines 52--56
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--50
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--75
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--78
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 89--95
-[][]
- []
-
-[29
-
-
-
-]
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 101--108
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 111--124
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 127--127
-[][]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 133--133
+Underfull \hbox (badness 10000) in paragraph at lines 59--74
 [][]
  []
 
@@ -3146,32 +3350,104 @@ Underfull \hbox (badness 10000) in paragraph at lines 133--133
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--140
+Underfull \hbox (badness 10000) in paragraph at lines 77--115
+[][]
+ []
+
+[50
+
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 118--118
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 143--146
+Underfull \hbox (badness 10000) in paragraph at lines 121--123
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 149--155
+Underfull \hbox (badness 10000) in paragraph at lines 126--145
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--163
+Underfull \hbox (badness 10000) in paragraph at lines 148--156
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
 [][]
  []
 
 
-Underfull \vbox (badness 3240) has occurred while \output is active []
+Underfull \hbox (badness 10000) in paragraph at lines 164--178
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 181--216
+[][]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 12.03764pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.03764pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
+
+[51]
+Underfull \hbox (badness 10000) in paragraph at lines 219--223
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--226
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--235
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 241--243
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--250
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 253--261
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--277
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 280--284
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--305
+[][]
+ []
+
+
+Underfull \vbox (badness 5036) has occurred while \output is active []
 
 
 
@@ -3182,18 +3458,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
 
-[30]
-Underfull \hbox (badness 10000) in paragraph at lines 169--177
+[52]
+Underfull \hbox (badness 10000) in paragraph at lines 308--308
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 180--180
+Underfull \hbox (badness 10000) in paragraph at lines 311--311
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--353
 [][]
  []
 
 )
-Underfull \hbox (badness 10000) in paragraph at lines 183--52
+Underfull \hbox (badness 10000) in paragraph at lines 356--52
 [][]
  []
 
@@ -3205,27 +3486,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-0.03764pt}.
 
-[31
-
-] (./Thesis.ind
-
-Package fontspec Info: IRNazanin scale = 1.25.
-
- [32
-
-
-
-
-])
-
-Package fontspec Info: IRNazanin scale = 1.25.
-
-LaTeX Info: Redefining \persianfont on input line 54.
-
-Package fontspec Info: Linux Libertine scale = 1.1.
-
-LaTeX Info: Redefining \latinfont on input line 54.
- (./Thesis.aux)
+[53] (./Thesis.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -3235,15 +3496,15 @@ L3 programming layer <2024-02-20>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 0697B3C7A1ED0772D38B411870B2C619;3428.
+(rerunfilecheck)             Checksum: 2D17089D4E7D1533AAF8DF9734450A8B;4300.
  ) 
 Here is how much of TeX's memory you used:
- 47511 strings out of 474773
- 988224 string characters out of 5761289
- 1942842 words of memory out of 5000000
- 68599 multiletter control sequences out of 15000+600000
- 565862 words of font info for 170 fonts, out of 8000000 for 9000
+ 54058 strings out of 474773
+ 1206975 string characters out of 5761289
+ 1943842 words of memory out of 5000000
+ 75123 multiletter control sequences out of 15000+600000
+ 567426 words of font info for 177 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  96i,14n,134p,2434b,1391s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Thesis.pdf (44 pages).
+Output written on Thesis.pdf (67 pages).

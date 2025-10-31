@@ -24,176 +24,492 @@
 \providecommand*\glsXpageXglsignore[2]{\setentrycounter[#1]{page}\glsignore{#2}}
 \begin{theglossary}\glossaryheader
 \glsgroupheading{A}\relax\glsresetentrylist
+\glossentry{Achievable Rate}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{31}\delimN 
+\glsXpageXglsnumberformat{}{33}}}\relax\glsresetentrylist
+\glossentry{Active Beamforming}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{17}}}\relax\glsresetentrylist
+\glossentry{Active User Detection}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{18}}}\relax\glsresetentrylist
+\glossentry{Adaptive Depth}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{18}}}\relax\glsresetentrylist
+\glossentry{Agent}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
+\glossentry{Autoencoder}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
+\glossentry{Algorithm Deep Unfolding}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{41}}}\relax\glsresetentrylist
 \glossentry{Algorithm Unfolding}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{3}\delimN 
-\glsXpageXglsnumberformat{}{8}\delimN 
-\glsXpageXglsnumberformat{}{14}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{14}\delimN 
+\glsXpageXglsnumberformat{}{24}\delimN 
+\glsXpageXglsnumberformat{}{25}}}\relax\glsresetentrylist
+\glossentry{Alternating Optimization}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{32}}}\relax\glsresetentrylist
 \glossentry{ante-hoc explainability}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{2}\delimN 
-\glsXpageXglsnumberformat{}{7}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{13}\delimN 
+\glsXpageXglsnumberformat{}{20}}}\relax\glsresetentrylist
+\glossentry{Attention Network}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{17}}}\relax\glsresetentrylist
 \glossentry{Attention Sub-Network}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{13}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{23}}}\glsgroupskip
 \glsgroupheading{B}\relax\glsresetentrylist
+\glossentry{Backpropagation}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{8}}}\relax\glsresetentrylist
+\glossentry{Beam Management}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{30}}}\relax\glsresetentrylist
+\glossentry{Beam Selection}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{30}}}\relax\glsresetentrylist
+\glossentry{Beam Tracking}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{30}}}\relax\glsresetentrylist
 \glossentry{Beamfocusing}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{12}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{40}}}\relax\glsresetentrylist
 \glossentry{Beamforming}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{8}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{10}\delimN 
+\glsXpageXglsnumberformat{}{14}\delimN 
+\glsXpageXglsnumberformat{}{17}\delimN 
+\glsXpageXglsnumberformat{}{32}\delimN 
+\glsXpageXglsnumberformat{}{33}}}\relax\glsresetentrylist
+\glossentry{Burst}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{38}}}\relax\glsresetentrylist
+\glossentry{Binary Cross-Entropy}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{8}}}\relax\glsresetentrylist
+\glossentry{Branch-and-Bound}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{37}}}\glsgroupskip
 \glsgroupheading{C}\relax\glsresetentrylist
+\glossentry{Cascaded Channel}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{33}}}\relax\glsresetentrylist
+\glossentry{Cascaded Channel Estimation}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{17}\delimN 
+\glsXpageXglsnumberformat{}{34}}}\relax\glsresetentrylist
+\glossentry{Categorical Cross-Entropy}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{8}}}\relax\glsresetentrylist
+\glossentry{Cumulative Reward}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
+\glossentry{Channel Estimation}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{17}}}\relax\glsresetentrylist
 \glossentry{Channel State Information}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{5}}}\relax\glsresetentrylist
-\glossentry{Communication-specific domain knowledge}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{5}\delimN 
+\glsXpageXglsnumberformat{}{33}\delimN 
+\glsXpageXglsnumberformat{}{38}}}\relax\glsresetentrylist
+\glossentry{Channel State Information Uncertainty}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{42}}}\relax\glsresetentrylist
+\glossentry{Classification}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{7}}}\relax\glsresetentrylist
-\glossentry{Compressed Sensing}{\glossaryentrynumbers{\relax 
+\glossentry{Co-design of Communication and Control Systems}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{30}}}\relax\glsresetentrylist
+\glossentry{Coupling}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{28}\delimN 
+\glsXpageXglsnumberformat{}{31}}}\relax\glsresetentrylist
+\glossentry{Covert Symbiotic Radio}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{31}}}\relax\glsresetentrylist
+\glossentry{Covertness Constraint}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{31}}}\relax\glsresetentrylist
+\glossentry{Communication-specific domain knowledge}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{12}}}\relax\glsresetentrylist
+\glossentry{Compressed Sensing}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{34}\delimN 
+\glsXpageXglsnumberformat{}{39}\delimN 
+\glsXpageXglsnumberformat{}{42}}}\relax\glsresetentrylist
+\glossentry{Convolutional Neural Network}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{7}}}\relax\glsresetentrylist
+\glossentry{Constant Modulus Waveform}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{18}\delimN 
+\glsXpageXglsnumberformat{}{36}\delimN 
+\glsXpageXglsnumberformat{}{42}}}\relax\glsresetentrylist
+\glossentry{Constant-Modulus Constraint}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{17}}}\relax\glsresetentrylist
 \glossentry{Constraint-Specific Loss Function}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{8}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{15}}}\glsgroupskip
 \glsgroupheading{D}\relax\glsresetentrylist
+\glossentry{Deep Bidirectional Gated Recurrent Unit Network}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{38}}}\relax\glsresetentrylist
 \glossentry{Deep Unfolding}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{2}\delimR 
-\glsXpageXglsnumberformat{}{13}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{5}\delimN 
+\glsXpageXglsnumberformat{}{10}\delimR 
+\glsXpageXglsnumberformat{}{12}\delimN 
+\glsXpageXglsnumberformat{}{14}\delimR 
+\glsXpageXglsnumberformat{}{20}\delimN 
+\glsXpageXglsnumberformat{}{22}\delimN 
+\glsXpageXglsnumberformat{}{31}\delimN 
+\glsXpageXglsnumberformat{}{32}\delimN 
+\glsXpageXglsnumberformat{}{34}\delimR 
+\glsXpageXglsnumberformat{}{40}\delimN 
+\glsXpageXglsnumberformat{}{42}}}\relax\glsresetentrylist
+\glossentry{Deep Unfolding Algorithm Based on Gradient Descent}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{32}}}\relax\glsresetentrylist
 \glossentry{Deep Learning}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{1}\delimR 
-\glsXpageXglsnumberformat{}{4}\delimN 
-\glsXpageXglsnumberformat{}{6}\delimN 
-\glsXpageXglsnumberformat{}{7}\delimN 
-\glsXpageXglsnumberformat{}{10}\delimR 
+\glsXpageXglsnumberformat{}{5}\delimN 
+\glsXpageXglsnumberformat{}{9}\delimN 
+\glsXpageXglsnumberformat{}{10}\delimN 
+\glsXpageXglsnumberformat{}{12}\delimN 
 \glsXpageXglsnumberformat{}{13}\delimN 
-\glsXpageXglsnumberformat{}{15}\delimN 
-\glsXpageXglsnumberformat{}{16}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{18}\delimR 
+\glsXpageXglsnumberformat{}{22}\delimN 
+\glsXpageXglsnumberformat{}{25}\delimN 
+\glsXpageXglsnumberformat{}{26}\delimN 
+\glsXpageXglsnumberformat{}{28}\delimR 
+\glsXpageXglsnumberformat{}{30}\delimN 
+\glsXpageXglsnumberformat{}{32}\delimN 
+\glsXpageXglsnumberformat{}{34}\delimR 
+\glsXpageXglsnumberformat{}{40}\delimN 
+\glsXpageXglsnumberformat{}{42}}}\relax\glsresetentrylist
 \glossentry{Deep Neural Network}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{2}\delimN 
 \glsXpageXglsnumberformat{}{4}\delimN 
-\glsXpageXglsnumberformat{}{7}\delimN 
-\glsXpageXglsnumberformat{}{8}\delimN 
+\glsXpageXglsnumberformat{}{9}\delimN 
 \glsXpageXglsnumberformat{}{10}\delimN 
-\glsXpageXglsnumberformat{}{11}\delimN 
-\glsXpageXglsnumberformat{}{16}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{13}\delimR 
+\glsXpageXglsnumberformat{}{16}\delimN 
+\glsXpageXglsnumberformat{}{18}\delimN 
+\glsXpageXglsnumberformat{}{19}\delimN 
+\glsXpageXglsnumberformat{}{29}\delimN 
+\glsXpageXglsnumberformat{}{30}\delimN 
+\glsXpageXglsnumberformat{}{33}\delimN 
+\glsXpageXglsnumberformat{}{35}\delimN 
+\glsXpageXglsnumberformat{}{36}}}\relax\glsresetentrylist
+\glossentry{Deep Reinforcement Learning}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
+\glossentry{Detection Network}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{12}\delimN 
+\glsXpageXglsnumberformat{}{18}}}\relax\glsresetentrylist
+\glossentry{Dual-Functional Waveform}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{34}}}\relax\glsresetentrylist
+\glossentry{Dual-Functional Waveform Design}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{17}}}\relax\glsresetentrylist
+\glossentry{Discriminator}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
 \glossentry{Domain Knowledge}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{2}\delimN 
-\glsXpageXglsnumberformat{}{4}\delimN 
-\glsXpageXglsnumberformat{}{6}\delimR 
+\glsXpageXglsnumberformat{}{3}\delimN 
 \glsXpageXglsnumberformat{}{10}\delimN 
-\glsXpageXglsnumberformat{}{13}\delimN 
-\glsXpageXglsnumberformat{}{14}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{12}\delimN 
+\glsXpageXglsnumberformat{}{14}\delimN 
+\glsXpageXglsnumberformat{}{15}\delimN 
+\glsXpageXglsnumberformat{}{18}\delimN 
+\glsXpageXglsnumberformat{}{20}\delimR 
+\glsXpageXglsnumberformat{}{23}\delimN 
+\glsXpageXglsnumberformat{}{26}\delimN 
+\glsXpageXglsnumberformat{}{35}\delimN 
+\glsXpageXglsnumberformat{}{36}}}\glsgroupskip
 \glsgroupheading{E}\relax\glsresetentrylist
 \glossentry{Edge Device}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{11}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{20}}}\relax\glsresetentrylist
+\glossentry{Expert Knowledge}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{21}}}\relax\glsresetentrylist
+\glossentry{End-to-End Communication System}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
 \glossentry{Energy Efficiency}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{3}}}\glsgroupskip
+\glsgroupheading{F}\relax\glsresetentrylist
+\glossentry{Feedforward Neural Network}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{7}\delimN 
+\glsXpageXglsnumberformat{}{38}}}\relax\glsresetentrylist
+\glossentry{Fully Connected Layer}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{8}}}\relax\glsresetentrylist
+\glossentry{Fully-Connected Neural Network}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{38}}}\relax\glsresetentrylist
+\glossentry{Forward-Backward}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{37}\delimN 
+\glsXpageXglsnumberformat{}{38}\delimN 
+\glsXpageXglsnumberformat{}{42}}}\glsgroupskip
 \glsgroupheading{G}\relax\glsresetentrylist
+\glossentry{Generative Adversarial Network}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
 \glossentry{Generative Artificial Intelligence}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{5}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{4}}}\relax\glsresetentrylist
+\glossentry{Generative Modeling}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
+\glossentry{Generator}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
+\glossentry{Generic Deep Neural Network}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{12}}}\relax\glsresetentrylist
+\glossentry{Global Network Utility}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{27}}}\relax\glsresetentrylist
+\glossentry{Graph Convolutional Network}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{26}}}\relax\glsresetentrylist
 \glossentry{Graph Neural Network}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{3}\delimN 
-\glsXpageXglsnumberformat{}{7}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{7}\delimN 
+\glsXpageXglsnumberformat{}{13}\delimN 
+\glsXpageXglsnumberformat{}{42}}}\relax\glsresetentrylist
+\glossentry{Grid-like Data}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{8}}}\glsgroupskip
 \glsgroupheading{H}\relax\glsresetentrylist
 \glossentry{Hallucination}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{5}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{4}\delimN 
+\glsXpageXglsnumberformat{}{21}}}\relax\glsresetentrylist
+\glossentry{Hybrid Beamforming}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{17}}}\relax\glsresetentrylist
 \glossentry{Hyperparameter}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{3}\delimN 
-\glsXpageXglsnumberformat{}{7}\delimN 
-\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{12}\delimN 
+\glsXpageXglsnumberformat{}{13}\delimN 
+\glsXpageXglsnumberformat{}{15}\delimN 
+\glsXpageXglsnumberformat{}{21}}}\relax\glsresetentrylist
+\glossentry{Hidden Markov Model}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{38}}}\glsgroupskip
 \glsgroupheading{I}\relax\glsresetentrylist
+\glossentry{Incremental Learning}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{29}}}\relax\glsresetentrylist
 \glossentry{Inference}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{8}\delimN 
-\glsXpageXglsnumberformat{}{14}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{14}\delimN 
+\glsXpageXglsnumberformat{}{23}}}\relax\glsresetentrylist
 \glossentry{Intelligent Reflecting Surface}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{3}\delimN 
-\glsXpageXglsnumberformat{}{10}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{17}\delimN 
+\glsXpageXglsnumberformat{}{19}}}\relax\glsresetentrylist
 \glossentry{Inter Symbol Interference}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{7}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{13}}}\relax\glsresetentrylist
 \glossentry{Interpretability}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{2}\delimN 
 \glsXpageXglsnumberformat{}{4}\delimN 
-\glsXpageXglsnumberformat{}{7}\delimN 
-\glsXpageXglsnumberformat{}{8}\delimN 
-\glsXpageXglsnumberformat{}{10}\delimN 
-\glsXpageXglsnumberformat{}{14}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{14}\delimN 
+\glsXpageXglsnumberformat{}{18}\delimN 
+\glsXpageXglsnumberformat{}{24}\delimN 
+\glsXpageXglsnumberformat{}{32}}}\relax\glsresetentrylist
+\glossentry{Iterative Algorithm}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{10}}}\relax\glsresetentrylist
+\glossentry{Iterative Algorithm Induced Deep Unfolding Neural Network}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{17}}}\glsgroupskip
 \glsgroupheading{J}\relax\glsresetentrylist
+\glossentry{Joint Channel Estimation}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{33}}}\relax\glsresetentrylist
+\glossentry{Joint Communication And Sensing}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{18}\delimN 
+\glsXpageXglsnumberformat{}{36}}}\relax\glsresetentrylist
 \glossentry{Joint Subcarrier and Power Allocation}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{15}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{28}}}\glsgroupskip
 \glsgroupheading{K}\relax\glsresetentrylist
+\glossentry{Kullback-Leibler Divergence}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{31}}}\relax\glsresetentrylist
 \glossentry{Knowledge-Driven Deep Learning}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{2}\delimR 
-\glsXpageXglsnumberformat{}{4}\delimN 
-\glsXpageXglsnumberformat{}{7}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{2}\delimN 
+\glsXpageXglsnumberformat{}{3}\delimN 
+\glsXpageXglsnumberformat{}{5}\delimN 
+\glsXpageXglsnumberformat{}{13}\delimN 
+\glsXpageXglsnumberformat{}{16}\delimN 
+\glsXpageXglsnumberformat{}{20}\delimN 
+\glsXpageXglsnumberformat{}{21}}}\glsgroupskip
 \glsgroupheading{L}\relax\glsresetentrylist
+\glossentry{Lagrange Dual Decomposition}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{25}}}\relax\glsresetentrylist
 \glossentry{Lagrange Duality}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{15}}}\relax\glsresetentrylist
 \glossentry{Large Language Model}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{4}\delimN 
 \glsXpageXglsnumberformat{}{5}}}\relax\glsresetentrylist
+\glossentry{Learned Approximate Message Passing}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{34}\delimN 
+\glsXpageXglsnumberformat{}{42}}}\relax\glsresetentrylist
+\glossentry{Learned Vector Shrinkage Function}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{34}}}\relax\glsresetentrylist
+\glossentry{Link Adaptation}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{30}}}\relax\glsresetentrylist
 \glossentry{Liquid Neural Networks}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{14}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{24}}}\relax\glsresetentrylist
+\glossentry{Localized Information Structure}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{27}}}\relax\glsresetentrylist
 \glossentry{Long Short-Term Memory}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{7}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{13}}}\relax\glsresetentrylist
 \glossentry{Loss Function}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{3}\delimN 
-\glsXpageXglsnumberformat{}{7}\delimR 
-\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{8}\delimN 
+\glsXpageXglsnumberformat{}{13}\delimR 
+\glsXpageXglsnumberformat{}{15}\delimN 
+\glsXpageXglsnumberformat{}{21}\delimN 
+\glsXpageXglsnumberformat{}{35}}}\glsgroupskip
 \glsgroupheading{M}\relax\glsresetentrylist
+\glossentry{Machine Learning}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{18}\delimN 
+\glsXpageXglsnumberformat{}{29}\delimN 
+\glsXpageXglsnumberformat{}{30}}}\relax\glsresetentrylist
 \glossentry{Majorization-Minimization}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{14}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{24}}}\relax\glsresetentrylist
+\glossentry{Manifold Optimization}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{36}}}\relax\glsresetentrylist
+\glossentry{Marker Code}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{37}}}\relax\glsresetentrylist
 \glossentry{Markov Decision Process}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{7}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{12}}}\relax\glsresetentrylist
+\glossentry{Massive Machine-Type Communication}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{18}}}\relax\glsresetentrylist
 \glossentry{Massive Millimeter Wave}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{10}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{19}}}\relax\glsresetentrylist
 \glossentry{Metaverse}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{1}}}\relax\glsresetentrylist
 \glossentry{Multi-Objective Learning}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{11}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{20}}}\relax\glsresetentrylist
+\glossentry{Multiple Input Multiple Output-Orthogonal Frequency Division Multiplexing}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{18}\delimN 
+\glsXpageXglsnumberformat{}{36}}}\relax\glsresetentrylist
+\glossentry{Multiple Random Access}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{18}}}\relax\glsresetentrylist
 \glossentry{Mixing Structure}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{8}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{15}}}\relax\glsresetentrylist
 \glossentry{Millimeter Wave}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{3}}}\relax\glsresetentrylist
 \glossentry{Model-Driven}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{18}\delimN 
+\glsXpageXglsnumberformat{}{20}\delimN 
+\glsXpageXglsnumberformat{}{22}\delimN 
+\glsXpageXglsnumberformat{}{23}\delimN 
+\glsXpageXglsnumberformat{}{25}\delimN 
+\glsXpageXglsnumberformat{}{33}}}\relax\glsresetentrylist
+\glossentry{Model-Driven Deep Learning}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{10}\delimN 
-\glsXpageXglsnumberformat{}{13}\delimR 
-\glsXpageXglsnumberformat{}{15}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{41}}}\glsgroupskip
 \glsgroupheading{N}\relax\glsresetentrylist
 \glossentry{Near Field Communication}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{12}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{40}}}\relax\glsresetentrylist
 \glossentry{Neural Sum Rate Maximization}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{14}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{24}}}\relax\glsresetentrylist
+\glossentry{Node Indexing}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{26}}}\relax\glsresetentrylist
+\glossentry{Non Orthogonal Multiple Access}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{18}}}\relax\glsresetentrylist
 \glossentry{Nonconvex}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{3}\delimN 
 \glsXpageXglsnumberformat{}{4}\delimN 
-\glsXpageXglsnumberformat{}{12}\delimR 
-\glsXpageXglsnumberformat{}{15}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{17}\delimN 
+\glsXpageXglsnumberformat{}{22}\delimN 
+\glsXpageXglsnumberformat{}{24}\delimN 
+\glsXpageXglsnumberformat{}{25}\delimN 
+\glsXpageXglsnumberformat{}{28}\delimN 
+\glsXpageXglsnumberformat{}{35}\delimN 
+\glsXpageXglsnumberformat{}{40}}}\relax\glsresetentrylist
+\glossentry{Non-Euclidean}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
+\glsgroupheading{O}\relax\glsresetentrylist
+\glossentry{Online Deployment}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{35}}}\relax\glsresetentrylist
+\glossentry{Online Learning}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{29}}}\glsgroupskip
 \glsgroupheading{P}\relax\glsresetentrylist
+\glossentry{Permutation Equivariance}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{16}\delimN 
+\glsXpageXglsnumberformat{}{26}\delimR 
+\glsXpageXglsnumberformat{}{28}\delimN 
+\glsXpageXglsnumberformat{}{42}}}\relax\glsresetentrylist
 \glossentry{Pipeline}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{2}}}\relax\glsresetentrylist
+\glossentry{Power Allocation}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{16}\delimN 
+\glsXpageXglsnumberformat{}{25}}}\relax\glsresetentrylist
+\glossentry{Power Control}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{30}}}\relax\glsresetentrylist
+\glossentry{Policy}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
+\glossentry{Policy Gradient Method}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
+\glossentry{Pooling Layer}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{8}}}\relax\glsresetentrylist
 \glossentry{post-hoc explainability}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{2}}}\relax\glsresetentrylist
 \glossentry{Precoder}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{3}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{3}\delimN 
+\glsXpageXglsnumberformat{}{17}}}\relax\glsresetentrylist
 \glossentry{Primal-Dual Learning}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{9}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{15}\delimN 
+\glsXpageXglsnumberformat{}{27}}}\relax\glsresetentrylist
 \glossentry{Projection Function}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{8}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{14}}}\relax\glsresetentrylist
+\glossentry{Projection Operator}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{36}}}\glsgroupskip
 \glsgroupheading{Q}\relax\glsresetentrylist
 \glossentry{QualityofService}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{11}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{19}}}\glsgroupskip
 \glsgroupheading{R}\relax\glsresetentrylist
+\glossentry{Racetrack Memory}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{37}}}\relax\glsresetentrylist
+\glossentry{Random Beamforming}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{33}}}\relax\glsresetentrylist
 \glossentry{Real-Time}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{8}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{14}}}\relax\glsresetentrylist
 \glossentry{Recurrent Neural Network}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{7}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{7}\delimN 
+\glsXpageXglsnumberformat{}{8}\delimN 
+\glsXpageXglsnumberformat{}{13}\delimN 
+\glsXpageXglsnumberformat{}{38}}}\relax\glsresetentrylist
+\glossentry{Recursive Least Squares}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{17}}}\relax\glsresetentrylist
+\glossentry{Reconfigurable Intelligent Surface}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{31}}}\relax\glsresetentrylist
 \glossentry{Refinement Structure}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{8}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{15}}}\relax\glsresetentrylist
+\glossentry{Regression}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{7}}}\relax\glsresetentrylist
 \glossentry{Reinforcement Learning}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{12}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{9}\delimN 
+\glsXpageXglsnumberformat{}{29}\delimN 
+\glsXpageXglsnumberformat{}{40}}}\relax\glsresetentrylist
+\glossentry{Row Compression Mechanism}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{34}}}\glsgroupskip
 \glsgroupheading{S}\relax\glsresetentrylist
+\glossentry{Sample Average Approximation}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{32}}}\relax\glsresetentrylist
 \glossentry{Self-Interference Cancellation}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{5}}}\relax\glsresetentrylist
+\glossentry{Semi-Defined Relaxation}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{36}}}\relax\glsresetentrylist
+\glossentry{Sequential Convex Approximation}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{25}}}\relax\glsresetentrylist
 \glossentry{Substructure Design}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{7}}}\relax\glsresetentrylist
+\glsXpageXglsnumberformat{}{14}}}\relax\glsresetentrylist
+\glossentry{Shrinkage Threshold}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{16}}}\relax\glsresetentrylist
+\glossentry{Signal Constellation Diagram}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{8}}}\relax\glsresetentrylist
+\glossentry{Signal Detection}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{10}\delimN 
+\glsXpageXglsnumberformat{}{18}}}\relax\glsresetentrylist
+\glossentry{Sparse Recovery}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{17}\delimN 
+\glsXpageXglsnumberformat{}{18}\delimN 
+\glsXpageXglsnumberformat{}{42}}}\relax\glsresetentrylist
+\glossentry{Sparsely-Connected Structure}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{36}}}\relax\glsresetentrylist
+\glossentry{Spectrum Allocation}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{30}}}\relax\glsresetentrylist
 \glossentry{Standard Interference Function}{\glossaryentrynumbers{\relax 
-\glsXpageXglsnumberformat{}{14}\delimN 
-\glsXpageXglsnumberformat{}{15}}}\glsgroupskip
+\glsXpageXglsnumberformat{}{24}\delimN 
+\glsXpageXglsnumberformat{}{28}}}\relax\glsresetentrylist
+\glossentry{Step Size}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{16}}}\glsgroupskip
 \glsgroupheading{T}\relax\glsresetentrylist
 \glossentry{Trainable Parameter}{\glossaryentrynumbers{\relax 
 \glsXpageXglsnumberformat{}{2}\delimN 
 \glsXpageXglsnumberformat{}{4}\delimN 
-\glsXpageXglsnumberformat{}{8}\delimN 
-\glsXpageXglsnumberformat{}{10}}}%
+\glsXpageXglsnumberformat{}{14}\delimN 
+\glsXpageXglsnumberformat{}{18}}}\relax\glsresetentrylist
+\glossentry{Transfer Learning}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{29}\delimN 
+\glsXpageXglsnumberformat{}{34}}}\relax\glsresetentrylist
+\glossentry{Transferability}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{27}\delimN 
+\glsXpageXglsnumberformat{}{28}}}\glsgroupskip
+\glsgroupheading{U}\relax\glsresetentrylist
+\glossentry{Unfolded Weighted Minimum Mean Square Error}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{12}\delimN 
+\glsXpageXglsnumberformat{}{25}}}\relax\glsresetentrylist
+\glossentry{Unfolded Projected Gradient Ascent/Descent}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{12}}}\relax\glsresetentrylist
+\glossentry{Unsupervised}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{27}}}\relax\glsresetentrylist
+\glossentry{User Scheduling}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{30}}}\glsgroupskip
+\glsgroupheading{V}\relax\glsresetentrylist
+\glossentry{Value Function}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{9}}}\glsgroupskip
+\glsgroupheading{W}\relax\glsresetentrylist
+\glossentry{Weighted Minimum Mean Square Error}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{17}\delimN 
+\glsXpageXglsnumberformat{}{25}}}\relax\glsresetentrylist
+\glossentry{Wideband Multicarrier System}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{36}}}\relax\glsresetentrylist
+\glossentry{Wireless Ad-Hoc One-Hop Network}{\glossaryentrynumbers{\relax 
+\glsXpageXglsnumberformat{}{25}}}%
 \end{theglossary}\glossarypostamble

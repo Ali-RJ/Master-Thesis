@@ -3,17 +3,18 @@
 \contentsline {section}{\numberline {1.2}چالش‌ها}{4}{section.1.2}%
 \contentsline {section}{\numberline {1.3}ساختار گزارش}{5}{section.1.3}%
 \contentsline {chapter}{فصل~\numberline {2}~~~ مفاهیم پایه‌ای}{6}{chapter.2}%
-\contentsline {chapter}{فصل~\numberline {3}~~~ مروری بر کارهای پیشین}{10}{chapter.3}%
-\contentsline {section}{\numberline {3.1}تخمین کانال}{11}{section.3.1}%
-\contentsline {section}{\numberline {3.2}آشکارسازی کانال}{11}{section.3.2}%
-\contentsline {section}{\numberline {3.3}طراحی پیش‌کدگذار}{11}{section.3.3}%
-\contentsline {section}{\numberline {3.4}سنجش و ارتباطات}{11}{section.3.4}%
-\contentsline {section}{\numberline {3.5}رمزگشایی در کدهای تصحیح خطا}{11}{section.3.5}%
-\contentsline {section}{\numberline {3.6}تخصیص توان}{11}{section.3.6}%
-\contentsline {chapter}{فصل~\numberline {4}~~~ نتیجه‌گیری و کا‌ر‌های آینده}{24}{chapter.4}%
-\contentsline {section}{\numberline {4.1}نتیجه‌گیری}{24}{section.4.1}%
-\contentsline {section}{\numberline {4.2}کارهای آینده}{24}{section.4.2}%
-\contentsline {chapter}{مراجع}{25}{section*.10}%
-\contentsline {chapter}{واژه نامه انگلیسی به فارسی}{26}{section*.12}%
-\contentsline {chapter}{واژه نامه فارسی به انگلیسی}{29}{section*.15}%
-\contentsline {chapter}{نمایه}{32}{section*.18}%
+\contentsline {section}{\numberline {2.1}مبانی یادگیری ژرف}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}سازوکار گسترش ژرف}{10}{section.2.2}%
+\contentsline {section}{\numberline {2.3}دانش دامنه و یادگیری ژرف در شبکه‌های بی‌سیم}{12}{section.2.3}%
+\contentsline {chapter}{فصل~\numberline {3}~~~ مروری بر کارهای پیشین}{16}{chapter.3}%
+\contentsline {section}{\numberline {3.1}تخصیص توان و مدیریت منابع}{22}{section.3.1}%
+\contentsline {section}{\numberline {3.2}طراحی پیش‌کدگذار و شکل‌دهی پرتو}{31}{section.3.2}%
+\contentsline {section}{\numberline {3.3}تخمین کانال}{33}{section.3.3}%
+\contentsline {section}{\numberline {3.4}سنجش و ارتباطات یکپارچه}{34}{section.3.4}%
+\contentsline {section}{\numberline {3.5}آشکارسازی سیگنال و دسترسی چندگانه}{37}{section.3.5}%
+\contentsline {chapter}{فصل~\numberline {4}~~~ نتیجه‌گیری و کا‌ر‌های آینده}{41}{chapter.4}%
+\contentsline {section}{\numberline {4.1}نتیجه‌گیری}{41}{section.4.1}%
+\contentsline {section}{\numberline {4.2}کارهای آینده}{43}{section.4.2}%
+\contentsline {chapter}{مراجع}{44}{section*.28}%
+\contentsline {chapter}{واژه نامه انگلیسی به فارسی}{45}{section*.30}%
+\contentsline {chapter}{واژه نامه فارسی به انگلیسی}{50}{section*.33}%
